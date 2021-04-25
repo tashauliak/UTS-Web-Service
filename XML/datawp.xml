@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xml>
+	<wajib_pajak>
+		<nama>Lee Jeno</nama>
+		<alamat>Lingk. Wargamulia Rt17/Rw08 Kel/Kec Purwaharja Kota Banjar</alamat>
+		<plat_nomor>Z 2313 YH</plat_nomor>
+		<model_kendaraan>Sepeda Motor</model_kendaraan>
+		<nomor_rangka>MH32P20007k996396</nomor_rangka>
+		<nomor_mesin>2P2-677350</nomor_mesin>
+	</wajib_pajak>
+	<wajib_pajak>
+		<nama>Na Jaemin</nama>
+		<alamat>Lingk. Wargamulia Rt19/Rw10 Kel/Kec Purwaharja Kota Banjar</alamat>
+		<plat_nomor>Z 1313 YH</plat_nomor>
+		<model_kendaraan>Mobil Penumpang</model_kendaraan>
+		<nomor_rangka>UBS52CUK4479789</nomor_rangka>
+		<nomor_mesin>791604</nomor_mesin>
+	</wajib_pajak>
+</xml>

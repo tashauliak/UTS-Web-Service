@@ -1,0 +1,26 @@
+[  
+    {
+            "nama" : "Lukmanul Hanif",
+            "alamat" : "Lingk. Wargamulia Rt20/Rw09 Kel/Kec Purwaharja Kota Banjar",
+            "plat_nomor" : "Z 2513 YH",
+            "model_kendaraan" : "Sepeda Motor",
+            "nomor_rangka" : "MH32P20037k669396",
+            "nomor_mesin" : "2P2-667250"
+    },
+    {
+            "nama" : "Tasha Aulia Kinanti",
+            "alamat" : "Lingk. Wargamulia Rt19/Rw10 Kel/Kec Purwaharja Kota Banjar",
+            "plat_nomor" : "Z 1213 YH",
+            "model_kendaraan" : "Mobil Penumpang",
+            "nomor_rangka" : "UBS52CUK4469891",
+            "nomor_mesin" : "790603"
+    },
+    {
+            "nama" : "Reihansyah Wijaya",
+            "alamat" : "Lingk. Wargamulia Rt18/Rw09 Kel/Kec Purwaharja Kota Banjar",
+            "plat_nomor" : "Z 2113 YH",
+            "model_kendaraan" : "Mobil Penumpang",
+            "nomor_rangka" : "UBS42CKU6459891",
+            "nomor_mesin" : "780360"
+    }
+]
